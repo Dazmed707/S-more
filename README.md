@@ -1,7 +1,7 @@
 <p align="center">
-  <img alt="Evilginx2 Logo" src="https://raw.githubusercontent.com/kgretzky/evilginx2/master/media/img/evilginx2-logo-512.png" height="160" />
+  <img alt="S'more Logo" src="https://phantom-marca-mx.unidadeditorial.es/db0084dcb9b5da14619de8378566921d/resize/828/f/webp/mx/assets/multimedia/imagenes/2024/09/09/17259072417599.jpg" height="160" />
   <p align="center">
-    <img alt="Evilginx2 Title" src="https://raw.githubusercontent.com/kgretzky/evilginx2/master/media/img/evilginx2-title-black-512.png" height="60" />
+    <img alt="Evilginx2 Title" src="https://phantom-marca-mx.unidadeditorial.es/db0084dcb9b5da14619de8378566921d/resize/828/f/webp/mx/assets/multimedia/imagenes/2024/09/09/17259072417599.jpg" height="60" />
   </p>
 </p>
 
